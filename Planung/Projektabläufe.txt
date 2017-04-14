@@ -1,0 +1,35 @@
+Der Inhalt dieser Datei soll die benötigten Aufgaben für die einzelnen Projekte darstellen.
+Dadurch soll erreicht werden, dass wir einen besseren Überblick auf den Umfang der einzelnen Projekte haben.
+
+Wenn ein "(?)" vor einer Aufgabe steht, dann ist dies als "Nice-To-Have" oder "Muss noch diskutiert werden" gemeint.
+
+----------**********----------
+----------**********----------
+
+Smartphonesteuerung:
+- Einlesen der Sensorwerte (großteils schon abgeschlossen)
+- Bluetooth Client
+- Bluetooth Server
+- Verbindung zwischen Server und Client
+- Übertragung von den Werten zwischen Server und Client
+- Verarbeiten der Werte (Einstellungen am Client ändern)
+- Grafische Aufbereitung (Auswahl - Welchen Sensor nutzen, um welche Eigenschaft zu verändern)
+- (?) Server und Client als Background-Task
+
+----------**********----------
+----------**********----------
+
+AR Fruit Ninja:
+- Kameraaufnahme als Spielhintergrund
+- Zufälliges oder Periodisches erstellen von Objekten
+- Zufällige Koordinaten (X,Y,Z)
+- Abfangen von den passenden Gyroscope-Sensordaten
+- Positionsaktualisierung der Objekte auf dem Screen 
+(Mathematische Funktion, welche die XYZ-Werte vom Smartphone mit den XYZ-Werten vom Objekte verrechnet)
+- Anzeige für die Anzahl der derzeit vorhandenen Objekte
+- Anzeige für die Punkte
+- Darstellung der Mitte
+- "Zerschneiden" von Objekten
+- (?) Bluetooth: Player vs Player
+- (?) Begrenzte Spieldauer (Man hat X Minuten Zeit)
+- (?) Startscreen vor dem Eigentlichen Spiel
