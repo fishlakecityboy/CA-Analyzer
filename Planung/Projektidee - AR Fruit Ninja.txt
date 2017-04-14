@@ -1,0 +1,11 @@
+- Auftauchen von Grafischen Objekten abhängig von der Smartphoneposition
+- Sehen der Objekte durch die Kamera
+- "Zerschneiden" der Objekte mit dem Smartphone
+-- Möglichkeit:
+--- 1. In der Mitte der Kamera ist ein Punkt
+--- 2. Überschneidung zwischen dem mittleren Punkt und der Objektposition => Zerschneiden
+
+Ausbaubar:
+- Punktesystem
+- Highscore
+- Bluetooth: player vs player

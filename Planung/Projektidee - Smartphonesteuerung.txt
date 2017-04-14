@@ -1,0 +1,16 @@
+Smartphone-Steuerung:
+- Bestehend aus zwei Modus: Server und Client
+- Verbindung über Bluetooth
+- Bei Veränderung eines Sensorwertes auf dem Server wird eine Einstellung am Client verändert
+
+- Mögliche Sensoren vom Server
+-- Accelerometer
+-- Licht
+-- Gyroscope
+-- Kompass
+-- weiteres
+
+- Mögliche Einstellungen vom Client
+-- Helligkeit
+-- Lautstärke
+-- weiteres
